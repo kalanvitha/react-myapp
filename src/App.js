@@ -4,7 +4,12 @@ import './App.css';
 function App() {
   return (
     
-    <h1>welcome to fsd lab</h1>
+    <div class="navbar">
+      <a href="#home"></a>
+      <a href="#about"></a>
+      <a href="#skills"></a>
+      <a href="#contact"></a>
+    </div>
   
   );
 }
